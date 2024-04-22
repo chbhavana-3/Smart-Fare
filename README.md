@@ -30,7 +30,7 @@ This Django project implements a system for public transportation that leverages
   
  ![alt text](https://imgur.com/b5JWrkH.png)
   
-- **Bot Integration**: Includes a chatbot feature for admin interaction.
+- **Llm Bot Integration**: Includes a chatbot feature for admin interaction.
   
 ![alt text](https://imgur.com/j1bVbvB.png)
 
